@@ -14,7 +14,3 @@ The purpose of this project is to provide a structured way to automate web appli
 - **Python**: The programming language used for writing the automation scripts.
 - **Pytest**: A testing framework to run the test cases.
 
-## 📂 Project Structure
-
-The project directory is organized as follows:
-
